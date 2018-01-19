@@ -5,5 +5,8 @@
     <artifactId>canchapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
+
   <artifactId>canchapp-entity</artifactId>
+  <name>CANCHAPP-ENTITY</name>
+
 </project>
